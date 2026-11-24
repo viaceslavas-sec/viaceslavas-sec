@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Viaceslavas 👋
 
-<!--
-**viaceslavas-sec/viaceslavas-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux & Middleware Engineer transitioning into Cybersecurity.
+Current Focus
 
-Here are some ideas to get you started:
+    Linux Security
+    Microsoft Sentinel
+    Security Monitoring
+    Security Automation
+    Cloud Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certifications
+
+    Microsoft Azure Administrator (AZ-104)
+    AWS Cloud Practitioner
+    Red Hat Administration Training
+
+Featured Projects
+Linux Hardening Lab
+
+Linux Security Scripts
+
+Bash scripts for auditing and monitoring Linux systems.
+Wazuh Home SOC
+
+Security monitoring and threat detection lab.
+Microsoft Sentinel Lab
+
+Cloud SIEM and incident detection using Azure.
+Connect
+
+    GitHub: github.com/viaceslavas-sec
+    LinkedIn: https://www.linkedin.com/in/viaceslavas-stankus-226355118/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNbhYMaAKTniRUZlPqxuHbg%3D%3D
